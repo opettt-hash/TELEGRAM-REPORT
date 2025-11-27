@@ -27,7 +27,7 @@ Tanpa download via link tersebut, script **tidak bisa dijalankan**.
 
 ---
 
-## 🧩 REQUIREMENTS
+## REQUIREMENTS
 Install dulu modul berikut:
 
 ```bash
@@ -36,33 +36,6 @@ pip install telethon rich
 ---
 
 ## CARA MENJALANKAN
-
-Setelah download script dari Safelinku:
-
-python TelegramReporter.py
-
-Menu:
-
-1 Jalankan Report
-2 Tambah Session Number
-
-➤ Menambah Nomor
-
-Pilih 2, masukin nomor:
-
-+628xxxxxx
-
-➤ Report Target
-
-Pilih 1, lalu:
-
-Isi target: @username / link t.me
-
-Atur jumlah report (100–200)
-
-Atur delay (default 3.5 detik)
-
-Jalan otomatis
 
 ---
 
