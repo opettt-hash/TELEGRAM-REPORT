@@ -4,17 +4,13 @@ Advanced auto-report Telegram (User / Group / Channel) dengan multi-session dan 
 ---
 
 ## DOWNLOAD SCRIPT
-Script **tidak diambil langsung dari GitHub**.  
-Silakan download melalui link proteksi:
 
- **Download Via Safelinku:**  
-> https://safelinku.com/XXXXX   *(isi dengan link kamu sendiri)*
-
-Tanpa download via link tersebut, script **tidak bisa dijalankan**.
-
+```bash
+https://safelinku.com/XXXXX
+```
 ---
 
-## FITUR
+## Fitur
 - Multi-session Telegram (acc1, acc2, acc3…)
 - Rotasi akun otomatis
 - Random report reason (Spam, Fake, Violence, Porn, Child Abuse)
@@ -25,19 +21,18 @@ Tanpa download via link tersebut, script **tidak bisa dijalankan**.
 
 ---
 
-## REQUIREMENTS
-Install dulu modul berikut:
+## Medule Wajib
 
 ```bash
 pip install telethon rich
 ```
 ---
 
-## CARA MENJALANKAN
+## Cara Menjalankan
 
 ---
 
-## DISCLAIMER
+## Peringatan 
 
 Tools dibuat untuk edukasi & riset.
 Segala penyalahgunaan ditanggung pengguna masing-masing.
