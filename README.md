@@ -1,3 +1,5 @@
+---
+
 # 🛰️ TELEGRAM REPORTER – Coded By Rolandino
 Advanced auto-report Telegram (User / Group / Channel) dengan multi-session dan rotasi otomatis.
 
@@ -30,3 +32,58 @@ Install dulu modul berikut:
 
 ```bash
 pip install telethon rich
+
+
+---
+
+🚀 CARA MENJALANKAN
+
+Setelah download script dari Safelinku:
+
+python TelegramReporter.py
+
+Menu:
+
+1 Jalankan Report
+2 Tambah Session Number
+
+➤ Menambah Nomor
+
+Pilih 2, masukin nomor:
+
++628xxxxxx
+
+➤ Report Target
+
+Pilih 1, lalu:
+
+Isi target: @username / link t.me
+
+Atur jumlah report (100–200)
+
+Atur delay (default 3.5 detik)
+
+Jalan otomatis
+
+
+
+---
+
+📁 STRUKTUR
+
+📂 TelegramReporter/
+│── TelegramReporter.py
+│── sessions/
+│── README.md
+
+
+---
+
+⚠️ DISCLAIMER
+
+Tools dibuat untuk edukasi & riset.
+Segala penyalahgunaan ditanggung pengguna masing-masing.
+
+
+---
+
