@@ -32,8 +32,7 @@ Install dulu modul berikut:
 
 ```bash
 pip install telethon rich
-
-
+```
 ---
 
 🚀 CARA MENJALANKAN
