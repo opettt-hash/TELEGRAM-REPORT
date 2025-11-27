@@ -1,5 +1,5 @@
 # TELEGRAM REPORT
-Advanced auto-report Telegram (User / Group / Channel) dengan multi-session dan rotasi otomatis.
+Auto Report Telegram (User / Group / Channel) Dengan Multi Session Dan Rotasi Otomatis
 
 ---
 
@@ -11,13 +11,13 @@ https://safelinku.com/XXXXX
 ---
 
 ## Fitur
-- Multi-session Telegram (acc1, acc2, acc3…)
-- Rotasi akun otomatis
-- Random report reason (Spam, Fake, Violence, Porn, Child Abuse)
-- Support single target / mass target via file .txt
-- Progress bar & log real-time
-- Auto skip session rusak / 2FA
-- Delay custom
+- Multi Session Telegram (acc1, acc2, acc3)
+- Rotasi Akun Otomatis
+- Random Report Reason (Spam, Fake, Violence, Porn, Child Abuse)
+- Support Single Target / Mass Target Via file .txt
+- Progress Bar Dan Log Real Time
+- Auto Skip Session Rusak / 2FA
+- Delay Custom
 
 ---
 
@@ -34,8 +34,8 @@ pip install telethon rich
 
 ## Peringatan 
 
-Tools dibuat untuk edukasi & riset.
-Segala penyalahgunaan ditanggung pengguna masing-masing.
+Tools Dibuat Untuk Edukasi Dan Riset
+Segala Penyalahgunaan Ditanggung Pengguna Masing Masing!
 
 ---
 
