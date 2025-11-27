@@ -10,7 +10,7 @@ Auto Report Telegram (User / Group / Channel) Dengan Multi Session Dan Rotasi Ot
 ## DOWNLOAD SCRIPT
 
 ```bash
-https://safelinku.com/XXXXX
+https://sfl.gl/0Pon
 ```
 ---
 
