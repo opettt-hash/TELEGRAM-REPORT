@@ -1,7 +1,8 @@
 # TELEGRAM REPORT
 Auto Report Telegram (User / Group / Channel) Dengan Multi Session Dan Rotasi Otomatis
 
-<img src="telegram.jpg" alt="IP Result" width="50%">
+<img src="telegram.jpg" alt="IP Result" width="80%">
+
 ---
 
 ## DOWNLOAD SCRIPT
