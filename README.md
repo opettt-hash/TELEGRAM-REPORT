@@ -1,22 +1,22 @@
----
+lebih q---
 
-# 🛰️ TELEGRAM REPORTER – Coded By Rolandino
+# TELEGRAM REPORTER – Coded By Rolandino
 Advanced auto-report Telegram (User / Group / Channel) dengan multi-session dan rotasi otomatis.
 
 ---
 
-## 📥 DOWNLOAD SCRIPT
+## DOWNLOAD SCRIPT
 Script **tidak diambil langsung dari GitHub**.  
 Silakan download melalui link proteksi:
 
-> 👉 **Download Via Safelinku:**  
+ **Download Via Safelinku:**  
 > https://safelinku.com/XXXXX   *(isi dengan link kamu sendiri)*
 
 Tanpa download via link tersebut, script **tidak bisa dijalankan**.
 
 ---
 
-## ⚙️ FITUR
+## FITUR
 - Multi-session Telegram (acc1, acc2, acc3…)
 - Rotasi akun otomatis
 - Random report reason (Spam, Fake, Violence, Porn, Child Abuse)
@@ -35,7 +35,7 @@ pip install telethon rich
 ```
 ---
 
-🚀 CARA MENJALANKAN
+## CARA MENJALANKAN
 
 Setelah download script dari Safelinku:
 
@@ -64,25 +64,12 @@ Atur delay (default 3.5 detik)
 
 Jalan otomatis
 
-
-
 ---
 
-📁 STRUKTUR
-
-📂 TelegramReporter/
-│── TelegramReporter.py
-│── sessions/
-│── README.md
-
-
----
-
-⚠️ DISCLAIMER
+## DISCLAIMER
 
 Tools dibuat untuk edukasi & riset.
 Segala penyalahgunaan ditanggung pengguna masing-masing.
-
 
 ---
 
