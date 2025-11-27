@@ -33,6 +33,7 @@ pip install telethon rich
 ---
 
 ## Cara Menjalankan
+[![Tonton Video Tutorial](https://img.youtube.com/vi/f8zykSlW6lQ/0.jpg)](https://youtu.be/VzC8c_zNCmk?si=pb7yLjiGIDXRtw0p)
 
 ---
 
