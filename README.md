@@ -1,6 +1,4 @@
-lebih q---
-
-# TELEGRAM REPORTER – Coded By Rolandino
+# TELEGRAM REPORT
 Advanced auto-report Telegram (User / Group / Channel) dengan multi-session dan rotasi otomatis.
 
 ---
